@@ -132,7 +132,7 @@ Include screenshots of your application below:
 ![Selecting Symptoms](Screenshots\Selection.png)
 
 ### SHAP Interaction Values
-![SHAP Interaction](Screenshots\SHAP.png)
+![SHAP Interaction](Screenshots/SHAP.png)
 
 ### Symptoms
-![Symptoms](Screenshots\Symptoms%20145.png)
+![Symptoms](Screenshots/Symptoms%20145.png)
