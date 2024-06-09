@@ -120,7 +120,7 @@ This project is licensed under the MIT License.
 Include screenshots of your application below:
 
 ### Confusion Matrix for Combined Model on Test Dataset
-![Confusion Matrix](Screenshots/Combination Matrix.png)
+![Confusion Matrix](Screenshots/Combination_Matrix.png)
 
 ### Top 20 Feature Importances for Disease Prediction
 ![Feature Importances](Screenshots/Feature%20Scaling.png)
