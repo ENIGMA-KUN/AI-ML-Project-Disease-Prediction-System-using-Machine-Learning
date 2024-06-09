@@ -123,13 +123,13 @@ Include screenshots of your application below:
 ![Confusion Matrix](Screenshots\Combination Matrix.png)
 
 ### Top 20 Feature Importances for Disease Prediction
-![Feature Importances](medical-ML\Screenshots\Feature%20Scaling.png)
+![Feature Importances](Screenshots/Feature%20Scaling.png)
 
 ### Home Page of the Application
-![Home Page](Screenshots\Home.png)
+![Home Page](Screenshots/Home.png)
 
 ### Selecting Symptoms
-![Selecting Symptoms](Screenshots\Selection.png)
+![Selecting Symptoms](Screenshots/Selection.png)
 
 ### SHAP Interaction Values
 ![SHAP Interaction](Screenshots/SHAP.png)
