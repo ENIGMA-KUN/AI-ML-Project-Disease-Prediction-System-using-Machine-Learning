@@ -32,7 +32,7 @@ The "Disease Prediction System using Machine Learning" aims to develop an intell
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/medical-ML.git
+    git clone https://github.com/ENIGMA-KUN/AI-ML-Project-Disease-Prediction-System-using-Machine-Learning.git
     cd medical-ML
     ```
 2. Create a virtual environment:
